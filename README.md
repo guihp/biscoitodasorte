@@ -2,9 +2,7 @@ Aplicativo de biscoito da sorrte no qual mostra frases motivacionais.
 
 Aplicativo feito em React-Native. 
 
-preview atravves do expo
-
-que a cara inicial dele é essa e ao apertar o botão "Quebrar Biscoito" aparece algumas das frases adicionadas, e ao clicar no botão "Reniciar biscoito" a tela volta a origem.
+que a tela inicial dele é essa abaixo e ao apertar o botão "Quebrar Biscoito" aparece algumas das frases adicionadas, e ao clicar no botão "Reniciar biscoito" a tela volta a origem.
 
 
 
